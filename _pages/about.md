@@ -35,3 +35,4 @@ ACM Transaction on Information Systems (TOIS) 2025 (CORE A*) \\
 1. 2nd Prize (Computer Science division) in Vietnam Annual Research Competition for Undergrad (2021)
 1. Nomination for Excellent Student of Ho Chi Minh City (2021)
 1. Dean's List of HCMUS Honor Program (2020)
+
