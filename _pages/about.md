@@ -20,7 +20,7 @@ Research Interests: Recommender Systems, Model Efficiency, Machine Learning on E
 
 # Highlighted Publications
 
-1. [On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective]() 
+1. [On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective](https://arxiv.org/pdf/2411.13052) 
 [<a  href="https://github.com/chenxing1999/shaver"><i class="fa-brands fa-github"></i></a>]\\
 ACM Web Conference (WWW) 2025 (CORE A*, Oral) \\
 **Hung Vinh Tran**, Tong Chen, Guanhua Ye, Quoc Viet Hung Nguyen, Kai Zheng, and Hongzhi Yin.
