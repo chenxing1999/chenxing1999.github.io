@@ -18,6 +18,10 @@ In 2021, I obtained my Bachelor's Degree from the Honors Program of the Departme
 
 Research Interests: Recommender Systems, Model Efficiency, Machine Learning on Edge Devices.
 
+# Professional Services
+- **Reviewers**: KDD'25
+- **Sub-reviewers**: KDD'25, RecSys'25, PAKDD'25
+
 # Highlighted Publications
 
 1. [On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective](https://arxiv.org/pdf/2411.13052) 
@@ -28,7 +32,6 @@ ACM Web Conference (WWW) 2025 (CORE A*, Oral) \\
 1. [A Thorough Performance Benchmarking on Lightweight Embedding-based Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3712589) [<a  href="https://github.com/chenxing1999/recsys-benchmark"><i class="fa-brands fa-github"></i></a>] \\
 ACM Transaction on Information Systems (TOIS) 2025 (CORE A*) \\
 **Hung Vinh Tran**, Tong Chen, Quoc Viet Hung Nguyen, Zi Huang, Lizhen Cui, and Hongzhi Yin.
-
 
 # Honors and Awards
 
