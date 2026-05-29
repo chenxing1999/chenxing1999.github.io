@@ -10,7 +10,7 @@ redirect_from:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@latest/patched-fonts/FiraCode/Regular/FiraCodeNerdFont-Regular.ttf">
 
 
-I am a second-year PhD student in Computer Science at University of Queensland, Australia. I am currently working on model efficiency for recommender systems, advised by [Dr. Rocky Tong Chen](https://eecs.uq.edu.au/profile/1253/rocky-chen) and [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home).
+I am a third-year PhD student in Computer Science at University of Queensland, Australia. I am currently working on model efficiency for recommender systems, advised by [Assoc.Prof. Rocky Tong Chen](https://eecs.uq.edu.au/profile/1253/rocky-chen) and [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home).
 
 Previously, I was a researcher and engineer at [Cinnamon AI](https://www.linkedin.com/company/cinnamoninc/), where I led numerous client projects (e.g. [CHRONUS](https://www.kline.co.jp/en/news/drybulk/drybulk-20231023.html)) and various internal researches.
 
@@ -18,11 +18,20 @@ In 2021, I obtained my Bachelor's Degree from the Honors Program of the Departme
 
 Research Interests: Recommender Systems, Model Efficiency, Machine Learning on Edge Devices.
 
+**I am actively looking for internship, full-time, postdoc positions, and collaborative opportunities. Feel free to reach out!**
+
+[[CV]](/files/academic_cv.pdf)
+
 # Professional Services
 - **Reviewers**: KDD'25
-- **Sub-reviewers**: KDD'25, RecSys'25, PAKDD'25
+- **Sub-reviewers**: KDD'25, RecSys'25-26, PAKDD'25
 
 # Highlighted Publications
+
+1. [Efficient Content-based Recommendation Model Training via Noise-aware Coreset Selection](https://arxiv.org/pdf/2601.10067)
+[<a  href="https://github.com/chenxing1999/nacs"><i class="fa-brands fa-github"></i></a>]\\
+ACM Web Conference (WWW) 2026 (CORE A*) \\
+**Hung Vinh Tran**, Tong Chen, Hechuan Wen, Quoc Viet Hung Nguyen, Bin Cui, and Hongzhi Yin.
 
 1. [On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective](https://arxiv.org/pdf/2411.13052) 
 [<a  href="https://github.com/chenxing1999/shaver"><i class="fa-brands fa-github"></i></a>]\\
